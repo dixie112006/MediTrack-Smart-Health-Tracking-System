@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 MediTech – Smart Health Tracking System
 
 Standalone web app — just open `index.html` in a browser. No backend, no install needed.
@@ -50,3 +51,6 @@ python3 -m http.server 8080   # http://localhost:8080
 Every user's data is stored under their own key:
 `mt_{userId}_medicines`, `mt_{userId}_hlogs`, etc.
 No user can access another user's data.
+=======
+# MediTrack-Smart-Health-Tracking-System
+>>>>>>> cd3e235162f68f424dc0eb4665f3deeb3bf80b80
